@@ -1,0 +1,8 @@
+name    'migrantgeek-initscript'
+version '0.0.1'
+source 'http://github.com/migrantgeek/puppet-initscript'
+author 'migrantgeek'
+license 'Apache License, Version 2.0'
+summary 'Puppet module for generating init scripts'
+description 'Puppet module for generating init scripts'
+project_page 'http://github.com/migrantgeek/puppet-initscript'
