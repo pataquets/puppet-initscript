@@ -1,5 +1,5 @@
 #!/bin/bash
-# File Managed by Puppet
+# This file is managed by Puppet. DO NOT EDIT!
 #
 # <%= @name %>		Start / stop <%= @friendly_name %>
 #
